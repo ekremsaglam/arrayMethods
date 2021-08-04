@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\ref\arrayMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\bin\Debug\net5.0\arrayMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\ref\arrayMethods.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\arrayMethods\obj\Debug\net5.0\arrayMethods.genruntimeconfig.cache
